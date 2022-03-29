@@ -1,0 +1,31 @@
+.primeira_div {
+    background-color: lightblue;
+    height: 500px;
+    width: 500px;
+}
+
+.segunda_div {
+    background-color: lightcoral;
+    height: 50%;
+    width: 50%;
+}
+
+.estilo_paragrafo {
+    background-color: lightgray;
+    color: white;
+    font-size: 25px;
+    font-family: monospace;
+    font-style: bold;
+}
+
+.terceira_div {
+    background-color: lightgreen;
+    height: 50vh;
+    width: 50%;
+}
+
+.quarta_div {
+    background-color: lightslategrey;
+    height: 50%;
+    width: 75vw;
+}
